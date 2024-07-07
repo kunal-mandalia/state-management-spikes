@@ -7,10 +7,10 @@ Identify suitable state management solutions given the following:
 * DevTools: history
 
 ## Approaches
-* context
-* signals
-* redux
-* eventemitter3
-* react-query
-* mobX
-* zustand
+* [ ] context
+* [ ] signals
+* [ ] redux
+* [ ] eventemitter3
+* [ ] react-query
+* [ ] mobX
+* [ ] zustand
