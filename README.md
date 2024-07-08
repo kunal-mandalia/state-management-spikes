@@ -6,11 +6,11 @@ Identify suitable state management solutions given the following:
 * Global state
 * DevTools: history
 
-## Approaches
+## Approaches demonstrated
 * [ ] context
-* [ ] signals
+* [x] signals
 * [ ] redux
 * [ ] eventemitter3
 * [ ] react-query
 * [ ] mobX
-* [ ] zustand
+* [-] zustand
