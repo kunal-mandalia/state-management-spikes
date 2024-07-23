@@ -13,4 +13,4 @@ Identify suitable state management solutions given the following:
 * [ ] eventemitter3
 * [ ] react-query
 * [ ] mobX
-* [-] zustand
+* [ ] zustand
